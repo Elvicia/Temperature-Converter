@@ -1,0 +1,2 @@
+# Temperature-Converter
+A simple website to convert temperature form Celsius to Fahrenheit and etc using CSS, HTML, JAVASCRIPT. It allows users to input a temperature in Fahrenheit, Celsius, or Kelvin, and it instantly calculates and displays the equivalent values in the other two units as they type. The page's design is clean and user-friendly, with a responsive layout and a pleasing color scheme. It can be easily integrated into websites or applications for quick temperature conversions.
